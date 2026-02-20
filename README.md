@@ -22,8 +22,6 @@ challenges.
 
 -   🤖 Artificial Intelligence & Machine Learning
 -   💳 Financial Technology (FinTech)
--   📊 Data Structures & Algorithms
--   📈 Financial Analysis & Capital Markets
 -   ⚙️ Automation & Process Optimization
 
 ------------------------------------------------------------------------
@@ -34,18 +32,17 @@ challenges.
 `Python`
 
 **Tools**\
-`Git` `VS Code` `Eclipse`
+`Git` `VS Code` `Eclipse` `GitHub`
 
 **Core Competencies**\
-Data Analysis • Object-Oriented Programming • Data Structures & Algorithms • Problem Solving
+Data Analysis • Object-Oriented Programming • Critical Thinking • Problem Solving
 
 ------------------------------------------------------------------------
 
 ## 📌 Career Objective
 
-To develop expertise in AI-driven financial systems and contribute to
-organizations operating at the intersection of technology and capital
-markets.
+To develop knowledge and hands-on experience in AI-driven technologies, financial systems and contribute to
+organizations operating in the domains of business & technology.
 
 ------------------------------------------------------------------------
 
