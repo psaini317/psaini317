@@ -5,23 +5,23 @@
 
 ------------------------------------------------------------------------
 
-## 👤 Profile
+## 👤 About Me
 
 I am a double-degree student combining business strategy with technical
 execution.\
-My focus lies at the intersection of artificial intelligence, financial
+My interests lie at the intersection of artificial intelligence, financial
 technology, and data-driven decision-making.
 
 I am particularly interested in applying analytical thinking and
 software development skills to solve real-world business and financial
-challenges.
+challenges. Always open to mentorship and opportunities to develop relevant experience. 
 
 ------------------------------------------------------------------------
 
 ## 🎯 Areas of Interest
 
--   🤖 Artificial Intelligence & Machine Learning
 -   💳 Financial Technology (FinTech)
+-   🤖 Artificial Intelligence & Machine Learning
 -   ⚙️ Automation & Process Optimization
 
 ------------------------------------------------------------------------
