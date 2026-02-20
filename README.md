@@ -20,10 +20,10 @@ challenges.
 
 ## 🎯 Areas of Interest
 
--   🤖 Artificial Intelligence & Machine Learning\
--   💳 Financial Technology (FinTech)\
--   📊 Data Structures & Algorithms\
--   📈 Financial Analysis & Capital Markets\
+-   🤖 Artificial Intelligence & Machine Learning
+-   💳 Financial Technology (FinTech)
+-   📊 Data Structures & Algorithms
+-   📈 Financial Analysis & Capital Markets
 -   ⚙️ Automation & Process Optimization
 
 ------------------------------------------------------------------------
