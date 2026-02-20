@@ -41,13 +41,6 @@ Data Analysis • Object-Oriented Programming • Data Structures & Algorithms �
 
 ------------------------------------------------------------------------
 
-## 🏆 Experience Highlights
-
--   🎤 Director of Corporate Relations --- case\[HACKS\]
-    (Business-Technology Hackathon)
-
-------------------------------------------------------------------------
-
 ## 📌 Career Objective
 
 To develop expertise in AI-driven financial systems and contribute to
