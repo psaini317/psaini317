@@ -39,10 +39,11 @@ Data Analysis • Object-Oriented Programming • Critical Thinking • Problem 
 
 ------------------------------------------------------------------------
 
-## 📌 Career Objective
+## 📌 Goals
 
-To develop knowledge and hands-on experience in AI-driven technologies, financial systems and contribute to
+- To develop knowledge and hands-on experience in AI-driven technologies, financial systems and contribute to
 organizations operating in the domains of business & technology.
+- Learn the practical applications of what I am learning in my University Courses. 
 
 ------------------------------------------------------------------------
 
