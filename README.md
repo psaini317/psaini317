@@ -26,19 +26,6 @@ challenges. Always open to mentorship and opportunities to develop relevant expe
 
 ------------------------------------------------------------------------
 
-## 🛠 Technical Skills
-
-**Languages**\
-`Python`
-
-**Tools**\
-`Git` `VS Code` `Eclipse` `GitHub`
-
-**Core Competencies**\
-Data Analysis • Object-Oriented Programming • Critical Thinking • Problem Solving
-
-------------------------------------------------------------------------
-
 ## 📌 Goals
 
 - To develop knowledge and hands-on experience in AI-driven technologies, financial systems and contribute to
