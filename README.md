@@ -50,4 +50,4 @@ organizations operating in the domains of business & technology.
 ## 📫 Contact
 
 🔗 LinkedIn: [linkedin.com/in/parneetsaini0731](https://www.linkedin.com/in/parneetsaini0731)
-✉️ Email: parneetsingh2007@gmail.com
+✉️ Email: parneet.ssaini31@gmail.com
