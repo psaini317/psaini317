@@ -1,35 +1,21 @@
 # Parneet Saini
 
-🎓 BBA (Business Administration) & BSc (Computer Science) Double Degree\
+🎓 BBA (Business Administration) 
 📍 Wilfrid Laurier University \| Waterloo, ON
 
 ------------------------------------------------------------------------
 
 ## 👤 About Me
 
-I am a double-degree student combining business strategy with technical
+I am a business student combining business strategy with technical
 execution.\
-My interests lie at the intersection of artificial intelligence, financial
-technology, and data-driven decision-making.
-
-I am particularly interested in applying analytical thinking and
-software development skills to solve real-world business and financial
-challenges. Always open to mentorship and opportunities to develop relevant experience. 
-
-------------------------------------------------------------------------
-
-## 🎯 Areas of Interest
-
--   💳 Financial Technology (FinTech)
--   🤖 Artificial Intelligence & Machine Learning
--   ⚙️ Automation & Process Optimization
+My interests lie at the intersection of artificial intelligence, financial markets, and data-driven decision-making.
 
 ------------------------------------------------------------------------
 
 ## 📌 Goals
 
-- To develop knowledge and hands-on experience in AI-driven technologies, financial systems and contribute to
-organizations operating in the domains of business & technology.
+- To develop knowledge and hands-on experience in AI-driven technologies, financial markets.
 - Learn the practical applications of what I am learning in my University Courses. 
 
 ------------------------------------------------------------------------
@@ -37,4 +23,4 @@ organizations operating in the domains of business & technology.
 ## 📫 Contact
 
 🔗 LinkedIn: [linkedin.com/in/parneetsaini0731](https://www.linkedin.com/in/parneetsaini0731)
-✉️ Email: parneet.ssaini31@gmail.com
+✉️ Email: parneetsingh2007@gmail.com
