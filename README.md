@@ -1,6 +1,6 @@
 # Parneet Saini
 
-🎓 BBA (Business Administration) 
+🎓 BBA (Business Administration)\ 
 📍 Wilfrid Laurier University \| Waterloo, ON
 
 ------------------------------------------------------------------------
