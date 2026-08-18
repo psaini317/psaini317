@@ -15,7 +15,7 @@ My interests lie at the intersection of artificial intelligence, financial marke
 
 ## 📌 Goals
 
-- To develop knowledge and hands-on experience in AI-driven technologies, financial markets.
+- To develop knowledge and hands-on experience in AI-driven technologies, and financial markets.
 - Learn the practical applications of what I am learning in my University Courses. 
 
 ------------------------------------------------------------------------
